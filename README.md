@@ -35,8 +35,3 @@ Languages/Libraries: Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-le
 Visualization: Matplotlib, Seaborn
 
 Evaluation: Precision-Recall Curves, ROC, SHAP
-----------------------
-📂 Project Structure
-├── Fraud.ipynb                     # Jupyter Notebook with code & experiments
-├── Proactive_Fraud_Detection_Report.docx  # Detailed report answering 8 key questions
-├── README.md                       # Project overview (this file)
